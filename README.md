@@ -13,3 +13,5 @@ Developer Use >
 1. Go to the websites.txt file and add scrapable website and run the Websites Scraper ( Dev ) .py file . 
 
 2. Fell free to adjust the Algorithm as you like . 
+
+I used Visual Studio Code For this Project . 
