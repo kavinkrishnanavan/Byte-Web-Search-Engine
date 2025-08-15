@@ -1,6 +1,6 @@
 # Byte-Web-Search-Engine
 
-This is a Web Search Engine Made in Python By Me !!!
+This is a Web Search Engine Made in Python using Tkinter
 
 Normal Use >
 
@@ -10,7 +10,7 @@ When you're in the application , you can just search . If you want to load a web
 
 Developer Use >
 
-1. Go to the websites.txt file and add scrapable website and run the Websites Scraper ( Dev ) .py file . 
+1. Go to the websites.txt file and add scrapeable website and run the Websites Scraper ( Dev ) .py file . 
 
 2. Fell free to adjust the Algorithm as you like . 
 
